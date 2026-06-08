@@ -2,7 +2,10 @@
 .odd-number {
     background-color: rgb(254, 134, 154);
     font-size: 22px;
-    font-family: "Verdana" "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    /*
+    "DejaVu Sans" is written in quotation marks cause it contains space so that the browser reads that as a single name
+    */
 }
 
 #number-two {
