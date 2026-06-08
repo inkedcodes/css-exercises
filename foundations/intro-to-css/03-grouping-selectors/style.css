@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.classic-button {
+    background-color: rgb(44, 35, 35);
+    color: white;
+}
+
+.alert-button {
+    background-color: rgb(255, 255, 70);
+    border: 2px solid grey;
+}
